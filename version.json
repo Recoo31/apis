@@ -1,6 +1,11 @@
 {
-  "version": 1.3,
-  "tvRelease": "",
-  "mobileRelease":"",
+  "versions": {
+    "tv": 1.3,
+    "mobile": 1.3
+  },
+  "downloads": {
+    "tv": "",
+    "mobile": ""
+  },
   "changeLog": []
 }
