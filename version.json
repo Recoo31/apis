@@ -1,11 +1,13 @@
 {
   "versions": {
-    "tv": 1.3,
+    "tv": 2.3,
     "mobile": 2.3
   },
   "downloads": {
-    "tv": "",
+    "tv": "https://www.dropbox.com/scl/fi/ei7elyfqllzptxfg0ljhc/tv-release_2-3-3.apk?rlkey=3mttrgllkl7oi5i2dxguha3xq&st=jevzjbdn&dl=1",
     "mobile": "https://www.dropbox.com/scl/fi/etl31ca5p9erw3aj1nmo7/mobile-release_2-3-3.apk?rlkey=atteqkxc4x8gxfxug2liwz6fv&st=mu8aiphd&dl=1"
   },
-  "changeLog": []
+  "changeLog": [
+    "Herhangi bir hata durumunda iletişim: Telegram:@Rokkozz"
+  ]
 }
