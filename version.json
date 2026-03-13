@@ -8,6 +8,8 @@
     "mobile": "https://www.dropbox.com/scl/fi/etl31ca5p9erw3aj1nmo7/mobile-release_2-3-3.apk?rlkey=atteqkxc4x8gxfxug2liwz6fv&st=mu8aiphd&dl=1"
   },
   "changeLog": [
-    "Herhangi bir hata durumunda iletişim: Telegram:@Rokkozz"
+    "Favori ekranı güncellendi",
+    "İzlenen Film-Diziler artık işaretli gözüküyor",
+    "Video izlerken altyazı büyüklüğü-yüksekliği artık ayarlanabiliyor"
   ]
 }
